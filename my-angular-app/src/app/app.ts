@@ -10,3 +10,4 @@ import { RouterOutlet } from '@angular/router';
 export class App {
   protected title = 'my-angular-app';
 }
+// js ở đây
